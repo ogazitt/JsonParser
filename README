@@ -1,0 +1,7 @@
+C# implementation of a simple recursive descent parser for JSON.
+
+Handles empty objects.
+
+Does not yet handle arrays.
+
+Does not yet handle anonymous objects (i.e. objects which don't have a name in front of the colon).
